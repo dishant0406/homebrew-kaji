@@ -1,6 +1,6 @@
-cask "droid" do
-  version "0.23.29"
-  sha256 "4689a32f8d102d2c292aeed17f900942f05cffe932a7a9413024979a4affad4f"
+cask "droidkit" do
+  version "0.0.1"
+  sha256 "5c8bb8ddc6e623db3b64fce6ce397b19ae46532663616b12fae0e7bb230768f0"
 
   url "https://github.com/dishant0406/droid/releases/download/v#{version}/Droid-#{version}-arm64.dmg"
   name "Droid"
