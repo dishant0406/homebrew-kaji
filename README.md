@@ -1,15 +1,15 @@
-# homebrew-droid
-Homebrew tap for Droid
+# homebrew-kaji
+Homebrew tap for Kaji
 
 ## Install
 
 ```bash
-brew tap dishant0406/droid
-brew install --cask droidkit
+brew tap dishant0406/kaji
+brew install --cask kajikit
 ```
 
 ## Launch
 
 ```bash
-open /Applications/Droid.app
+open /Applications/Kaji.app
 ```
