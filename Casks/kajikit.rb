@@ -1,6 +1,6 @@
 cask "kajikit" do
-  version "0.3.8"
-  sha256 "f36633b74090fcf073b49eac4eeaddf14d71a4908db35b584a4f383b804b4c20"
+  version "0.3.9"
+  sha256 "cf5650ca78ed2ff994463ab1f0aed76531a2a9ff4bcecd3b29d6a7f71204778d"
 
   url "https://github.com/dishant0406/kaji/releases/download/v#{version}/Kaji-#{version}-arm64.dmg"
   name "Kaji"
